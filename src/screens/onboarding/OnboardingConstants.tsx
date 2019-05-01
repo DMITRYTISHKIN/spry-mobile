@@ -1,0 +1,3 @@
+export const PHONE_DETAILS = 'PHONE_DETAILS';
+export const CARD_DETAILS = 'CARD_DETAILS';
+export const OTP_DETAILS = 'OTP_DETAILS';
